@@ -8,6 +8,6 @@
 - [![BR](https://b-r.io/logo/favicon-16x16.png)](https://a-bd.me/) 
 Feel free to checkout my [portfolio](https://a-bd.me/) website!
 - 🏢 Software Engineer (Full Stack) [@Hines](https://www.hines.com/), in Houston TX
-- 🧰 I build with: `Node.js` `Nest.js`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
+- 🧰 I build with: `Node.js` `Nest.js`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ....
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: abdulbositsharipovv@gmail.com
